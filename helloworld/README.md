@@ -15,8 +15,8 @@ Now write some code! Create a file hello.cc.
 
 Step 4
 Compile your addon: if you don't have node-gyp installed, use sudo npm install node-gyp -g to install it. then run 
-$node-gyp configure
-$node-gyp build
+$node-gyp configure\n
+$node-gyp build\n
 
 Step 5
 Create a file called hello.js add run it!
