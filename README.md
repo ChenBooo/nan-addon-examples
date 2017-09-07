@@ -1,7 +1,10 @@
 # nan-addon-examples
-The examples on https://github.com/nodejs/node-addon-examples seems too old. When I complie those file, many error shows up. So I decide to rewrite it use nan@2.7.0
+Some example show how to manipulate nodejs object in c++ addon. There are some useful resource when to start develop nodejs c++ addon.
 
-turns out the examples on  https://github.com/nodejs/node-addon-examples are fine. So the project just for practice, to learn git command.
+office example:  https://github.com/nodejs/node-addon-examples
+V8 API Reference Guide:  https://v8.paulfryzel.com/docs/master/index.html
+nodejs c++ addon:   https://nodejs.org/dist/latest-v6.x/docs/api/addons.html
+nan document:  https://www.npmjs.com/package/nan 
 
 Enviroment:
 nan: nan@2.7.0;
